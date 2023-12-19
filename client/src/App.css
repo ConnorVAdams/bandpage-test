@@ -1,0 +1,19 @@
+:root {
+  --bg: #282c34;
+  --header: #fff;
+  --link: #61dafb;
+  --text: hsla(0, 0%, 100%, 0.88);
+}
+
+/* #user-nav {
+  flex-direction: column;
+} */
+
+/* #button {
+  height: 50%;
+  margin: auto
+} */
+
+h1 {
+  text-align: center;
+}
